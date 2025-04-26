@@ -1,5 +1,6 @@
 import axios from 'axios';
 
+//Should be move to config file
 const BASE_URL = 'http://localhost:3001/routers';
 
 // Fetch all routers
